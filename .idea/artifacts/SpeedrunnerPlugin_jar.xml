@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpeedrunnerPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpeedrunnerPlugin_jar</output-path>
+    <root id="archive" name="SpeedrunnerPlugin.jar">
+      <element id="module-output" name="SpeedrunnerPlugin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: SpeedrunnerPlugin
+main: me.santres.speedrunnerplugin.SpeedrunnerPlugin
+author: Santres
+api-version: 1.18
+version: 2.0
+commands:
+  speedrunner:
+    usage: /<command> add|remove|get <player>
+    description: Speedrunner game.
